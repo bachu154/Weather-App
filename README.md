@@ -1,3 +1,4 @@
+![Screenshot (234)](https://github.com/user-attachments/assets/f2f4b602-ecd1-4501-8b37-e59b6debc3c5)
 ![Screenshot (235)](https://github.com/user-attachments/assets/89f5895e-07b7-4883-95f1-36b78289cb26)
 # Weather-App
 Weather App is a web application created using HTML, CSS, and JavaScript. It leverages a weather API to provide real-time weather updates based on the user's current location. Additionally, the app offers a forecast for upcoming days, ensuring users stay prepared for changing weather conditions.
