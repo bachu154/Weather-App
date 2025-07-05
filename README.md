@@ -26,9 +26,7 @@ The **Weather App** is a responsive web application built using **HTML**, **CSS*
 
 ## 📸 Demo
 
-> _Live demo link (optional) can be added here_
-
----
+https://bachu154.github.io/Weather-App/
 
 ## 🛠️ Technologies Used
 
